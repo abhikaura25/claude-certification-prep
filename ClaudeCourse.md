@@ -172,6 +172,8 @@ flowchart LR
 
 ### Why `claude.md` Exists
 
+Sample: https://gemini.google.com/share/9accb7f45d70
+
 | Problem                                         | Solution                              |
 | ----------------------------------------------- | ------------------------------------- |
 | LLMs have no memory across sessions             | `claude.md` acts as persistent memory |
